@@ -1,9 +1,19 @@
-# Build Modern Next 14 Server Side App with Server Actions, Infinite Scroll & Framer Motion Animations
+# Next.js 14 Anime App 🌟
 
-![Anime Website](https://i.ibb.co/MG1nbqt/YT-Thumbnails-2.png)
+## Overview
+This modern web application, developed using Next.js 14 and powered by TypeScript, seamlessly integrates with the Shikimori anime API. It combines server-side efficiency with client-side interactivity, making it a versatile and performant solution for anime enthusiasts.
 
-### [🌟 Become a top 1% Next.js 14 developer in only one course](https://jsmastery.pro/next14)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
-### [📙 Free Three.js Cheatsheet](https://resource.jsmastery.pro/threejs-cheatsheet)
-### [🌐 Best Hosting for Your Websites](https://hostinger.com/javascript10)
+## Features
+- **Server-Side and Client-Side Rendering:** Experience the best of both worlds with dynamic content rendering on both server and client sides.
+- **Framer Motion Animations:** Enjoy visually appealing and interactive animations, enhancing the overall user experience.
+- **Shikimori Anime API Integration:** Connect seamlessly to Shikimori's extensive anime database, providing up-to-date information.
+- **Pagination:** Effortlessly navigate through a vast array of anime titles with our efficient pagination system.
+
+## Getting Started
+1. **Installation:**
+   ```bash
+   npm install
+
+
+
 
